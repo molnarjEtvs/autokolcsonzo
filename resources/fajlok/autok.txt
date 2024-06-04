@@ -1,0 +1,20 @@
+Lotus;Elise;Blue;3;ABC-123
+Buick;Riviera;Puce;3;XXX-234
+Toyota;Camry;Fuscia;2;HJK-789
+Saab;9000;Puce;2;LKI-234
+Maserati;Quattroporte;Blue;2;GRT-212
+Chevrolet;Tracker;Orange;2;FER-467
+Toyota;Corolla;Pink;5;ZRF-001
+Volvo;V50;Aquamarine;2;SSE-999
+Mercedes-Benz;SLR McLaren;Violet;4;FDG-458
+Nissan;Maxima;Goldenrod;3;RZF-669
+Cadillac;Escalade EXT;Blue;3;FHT-458
+Nissan;Pathfinder;Khaki;4;JHF-632
+Oldsmobile;98;Aquamarine;2;ERT-154
+Mercedes-Benz;SL-Class;Violet;1;MKH-152
+Land Rover;Range Rover;Crimson;1;GFF-639
+Saturn;Outlook;Puce;5;IUZ-644
+Isuzu;Hombre;Maroon;4;DCF-448
+Volvo;V70;Turquoise;2;MNH-257
+Honda;CR-V;Maroon;3;UHH-657
+Mercedes-Benz;R-Class;Teal;5;NBV-999
